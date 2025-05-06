@@ -6,7 +6,7 @@
 
 ## About Me
 
-**Farah Al-Muzaini** — a passionate techie and the founder of **AtharTech**, a student-centered initiative focused on empowering youth with technical skills, industry insights, and mentorship opportunities.
+**Farah Almozini** — a passionate techie and the founder of **AtharTech**, a student-centered initiative focused on empowering youth with technical skills, industry insights, and mentorship opportunities.
 
  I’m **Information Technology** student at Princess Nourah University, and currently pursuing **Software Engineering** at Holberton School.  
 
